@@ -27,3 +27,13 @@ button {
   font-weight: 500;
   align-items: center;
 }
+
+.secondary-btn {
+  background: transparent;
+  color: gray;
+  border: 1px solid gray;
+}
+.hero-btn {
+  display: flex;
+  gap: 40px;
+}
