@@ -1,0 +1,29 @@
+@import url("https://fonts.googleapis.com/css2?family=Rubik&family=Ubuntu:wght@700&display=swap");
+</style > body {
+  font-family: "Rubik", sans-serif;
+  font-family: "Ubuntu", sans-serif;
+}
+
+nav {
+  justify-content: space-between;
+  display: flex;
+  max-width: 1280px;
+  margin: 0 auto;
+  height: 72px;
+  align-items: centre;
+}
+
+nav ul {
+  display: flex;
+  list-style: none;
+  gap: 24px;
+}
+
+button {
+  padding: 6px 16px;
+  background-color: red;
+  height: 32px;
+  color: white;
+  font-weight: 500;
+  align-items: center;
+}
